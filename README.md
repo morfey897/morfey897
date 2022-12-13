@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksym Cherniavskyi</h1>
 <h3 align="center">A passionate full stack developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Take Travel](http://take.travel)
-
-- 💬 Ask me about **react, redux, nodejs, material-ui, graphql**
+- 💬 Ask me about **react, redux, nodejs, material-ui, tailwindcss, graphql**
 
 - 📫 How to reach me **morfey897@gmail.com**
 
