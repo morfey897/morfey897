@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maksym Cherniavskyi</h1>
 <h3 align="center">A passionate full stack developer from Ukraine</h3>
 
-- 💬 Ask me about **react, redux, nodejs, material-ui, tailwindcss, graphql**
+- 💬 Ask me about **react, redux, nodejs, nextjs, remix, vite, MUI, tailwindcss, graphql**
 
 - 📫 How to reach me **morfey897@gmail.com**
 
